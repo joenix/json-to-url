@@ -1,0 +1,19 @@
+{
+  "name": "json-to-url",
+  "version": "1.0.5",
+  "description": "Parse Json To Url Query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json",
+    "parse",
+    "to url",
+    "json parse",
+	"json parse url",
+    "json to url"
+  ],
+  "author": "joenix",
+  "license": "ISC"
+}
